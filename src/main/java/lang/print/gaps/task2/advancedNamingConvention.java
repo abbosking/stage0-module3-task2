@@ -10,7 +10,7 @@ public class AdvancedNamingConvention {
         //some code
     }
 
-    void Callby_Number(int number) {
+    void CallByNumber(int number) {
         //some code
     }
 }
