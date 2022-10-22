@@ -4,7 +4,7 @@ public class advancedNamingConvention {
     public static final int ADULT_AGE = 18;
 
     int age;
-    int phone_number;
+    int phoneNumber;
 
     void call_to_friend() {
         //some code
