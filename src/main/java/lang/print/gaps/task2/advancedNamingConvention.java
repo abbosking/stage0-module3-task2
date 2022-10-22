@@ -6,11 +6,11 @@ public class advancedNamingConvention {
     int age;
     int phoneNumber;
 
-    void call_to_friend() {
+    void CallToFriend() {
         //some code
     }
 
-    void call_by_number(int number) {
+    void CallByNumber(int number) {
         //some code
     }
 }
