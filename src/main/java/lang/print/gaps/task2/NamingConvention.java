@@ -10,6 +10,6 @@ public class NamingConvention {
         final int VARIABLEfIVE = 5;
         int VariableSix = 6;
         int variableseven = 7;
-        int VariableEight = 8
+        int VariableEight = 8;
     }
 }
